@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'task_1_OpenGL' target in the 'task_1_OpenGL' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
